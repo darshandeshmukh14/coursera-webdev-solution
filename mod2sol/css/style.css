@@ -10,7 +10,7 @@ section {
   background-color: grey;
   border: 2px solid black;
   margin-bottom: 30px;
-  height: 220px;
+  height: 180px;
 }
 
 p {
@@ -73,6 +73,7 @@ h2 {
     margin-left: 5%;
     margin-right: 5%;
     width: 90%;
+    height: 130px;
   }
 }
 
@@ -82,5 +83,6 @@ h2 {
     margin-left: 10%;
     margin-right: 10%;
     width: 80%;
+    height: 150px;
   }
 }
